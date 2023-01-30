@@ -9,15 +9,14 @@
 .history
 .svn/
 migrate_working_dir/
-.delivery_app/
+
 
 # IntelliJ related
 *.iml
 *.ipr
 *.iws
 .idea/
-*.yaml
-*.json
+
 
 
 
@@ -36,6 +35,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+.delivery_app/
 
 # Symbolication related
 app.*.symbols
