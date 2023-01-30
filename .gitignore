@@ -16,6 +16,8 @@ migrate_working_dir/
 *.ipr
 *.iws
 .idea/
+*.yaml
+*.json
 
 
 
